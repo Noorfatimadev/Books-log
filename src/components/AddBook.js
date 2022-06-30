@@ -134,7 +134,7 @@ const AddBook = () => {
 		<>
 		<Navbar bg="dark" variant="dark" className="header">
 			<Container>
-				<Navbar.Brand href="#home">Library - Firebase CRUD</Navbar.Brand>
+				<Navbar.Brand href="#home">Library - Books Log</Navbar.Brand>
 			</Container>
 		</Navbar>
 
@@ -241,7 +241,7 @@ const AddBook = () => {
 								
 							<ModalHeader >
 							Edit
-							</ModalHeader> \
+							</ModalHeader> 
 
 							<ModalBody>
 						
@@ -315,7 +315,7 @@ const AddBook = () => {
 								
 							</ModalBody>
 						</Modal>
-								{/*\\\\\\\\\\\\\\\\\\modal popup end*\\\\\\\\\\\\\\\*/}
+						 {/*\\\\\\\\\\\\\\\\\\\\\modal popup end*\\\\\\\\\\\\\\\*/}
 						
 						{ 
 							React.Children.toArray(
